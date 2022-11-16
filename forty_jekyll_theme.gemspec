@@ -3,7 +3,7 @@
 Gem::Specification.new do |spec|
   spec.name          = "Guacho Anilema Erick Martin"
   spec.version       = "1.1"
-  spec.authors       = ["Guacho Erick"]
+  spec.authors       = ["Guacho Erick."]
   spec.email         = ["edrickg726@gmail.com"]
 
   spec.summary       = %q{A Jekyll version of the "Forty" theme by HTML5 UP.}
